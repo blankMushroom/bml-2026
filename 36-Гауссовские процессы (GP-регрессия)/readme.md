@@ -15,6 +15,8 @@
   в точке `x* = 0.5`.
   
 - `src/requirements.txt` - зависимости.
+
+- `GP_Басс_Грищенко.pdf` - презентация
 ## Запуск кода
 ```bash
 pip install -r src/requirements.txt
