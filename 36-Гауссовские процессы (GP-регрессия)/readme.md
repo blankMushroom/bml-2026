@@ -16,7 +16,7 @@
   
 - `src/requirements.txt` - зависимости.
 
-- `GP_Басс_Грищенко.pdf` - презентация
+- `GP_Басс_Грищенко.pdf` - презентация.
 ## Запуск кода
 ```bash
 pip install -r src/requirements.txt
